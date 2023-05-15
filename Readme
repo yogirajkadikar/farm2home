@@ -1,9 +1,14 @@
+Front-End Pages for MVP :
 1.	Home page/Landing page:  this is first page when a user visits farm2home website. It has links to different pages but most importantly links to sign up and sign in of farmers and customer’s account. https://wireframe.cc/VI8QP5
-2.	The sign up page - this is where a farmer/customer fills out a form and submits it to create a new user account.  
-3.	The dashboard of Farmers account: This is where all the products on sale will appear with their in-stock availability, but when there are no products on sale it will show “Add your product”.
-4.	The Add product Page: Add Name, Quantity, price of the product along with its image.
-5.	The Edit Product Page: Here farmer can Edit availability of product along with price.
-6.	The customers login gallery: After login customer will be directed to this page where all the available veggies will be put on display along with add to kart option and increasing quantity of product counter.
-7.	The Cart view Page: This link will forward user to view the cart for all added items and checkout/place order option.
-8.	The place order age: here you can click and place order, it will take user to login gallery with “Order successful message” and an email to the user.
+2.	The sign up page - this is where a farmer/customer fills out a form and submits it to create a new user account. 
+3.  The Sign-in page - for farmer and customer
+4.	The dashboard of Farmers account: This is where all the products on sale will appear with their in-stock availability, but when there are no products on sale it will show “Add your product”.
+5.	The Add product Page: Add Name, Quantity, price of the product along with its image.
+6.	The Edit Product Page: Here farmer can Edit availability of product along with price.
+7.	The customers login gallery: After login customer will be directed to this page where all the available veggies will be put on display along with add to kart option and increasing quantity of product counter.
+8.	The Cart view Page: This link will forward user to view the cart for all added items and checkout/place order option.
+9.	The place order age: here you can click and place order, it will take user to login gallery with “Order successful message” and an email to the user.
 Ref: https://moqups.com/templates/wireframes-mockups/ecommerce-wireframe/
+
+
+RESTful APIs for communication between applications.
